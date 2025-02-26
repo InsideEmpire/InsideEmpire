@@ -7,7 +7,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/InsideEmpire">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsideEmpire&layout=compact&theme=buefy&hide_border=true" />
       </a>
     </td>
